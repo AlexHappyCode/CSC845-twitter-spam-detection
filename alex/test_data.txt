@@ -29844,12 +29844,6 @@
 7550 295 Spam 1
 7550 309 Spam 1
 7550 636 Spam 1
-7552 53 South Dakota 1
-7552 91 South Dakota 1
-7552 126 South Dakota 1
-7552 304 South Dakota 1
-7552 380 South Dakota 1
-7552 1951 South Dakota 1
 7554 43 Spam 1
 7554 103 Spam 1
 7554 395 Spam 1
@@ -49934,14 +49928,14 @@
 12842 115 Quality 1
 12842 140 Quality 1
 12842 422 Quality 1
-12843 0 South Dakota 2
-12843 1 South Dakota 1
-12843 515 South Dakota 1
-12843 633 South Dakota 1
-12843 1033 South Dakota 1
-12843 1056 South Dakota 1
-12843 1360 South Dakota 1
-12843 2322 South Dakota 1
+12843 0 Spam 2
+12843 1 Spam 1
+12843 515 Spam 1
+12843 633 Spam 1
+12843 1033 Spam 1
+12843 1056 Spam 1
+12843 1360 Spam 1
+12843 2322 Spam 1
 12845 1 Spam 1
 12845 35 Spam 1
 12845 421 Spam 1
