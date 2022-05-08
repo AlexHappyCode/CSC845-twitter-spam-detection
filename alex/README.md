@@ -25,5 +25,4 @@ nltk.download('punkt')
 Once the packages are installed, simply run all cells and scroll
 down to see the results and the number of mismatches displayed
 in the pie chart. The final pie chart in the notebook showcases
-the random forest after having been run on the entire dataset
-
+the random forest after having been run on the entire dataset.
